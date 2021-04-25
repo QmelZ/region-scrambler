@@ -1,0 +1,8 @@
+{
+    name: "region-scrambler",
+    displayName: "Region Scrambler",
+    author: "QmelZ",
+    description: "cursed. very cursed.",
+    version: 1,
+    minGameVersion: 126
+}
