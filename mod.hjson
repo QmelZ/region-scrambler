@@ -4,5 +4,6 @@
     author: "QmelZ",
     description: "cursed. very cursed.",
     version: 1,
-    minGameVersion: 126
+    minGameVersion: 126,
+    hidden: true
 }
